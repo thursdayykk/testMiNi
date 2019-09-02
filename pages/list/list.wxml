@@ -1,0 +1,14 @@
+<!--pages/list/list.wxml-->
+<view class="container">
+    <!-- tuijian -->
+    <view class="recommand-container">
+        <view class="recommand-article">
+            <text class="date">十月七日</text>
+            <text class="recommand-title">点评人见闻：</text>
+            <image class="recommand-cover" src="/images/list/article/recommand-image.jpeg" />
+        </view>
+        <view></view>
+    </view>
+    <!-- liebiao -->
+    <view></view>
+</view>

@@ -1,0 +1,11 @@
+/* pages/list/list.wxss */
+
+.recommand-article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.date{
+    font-size:52rpx;
+}
